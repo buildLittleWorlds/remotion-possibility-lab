@@ -24,7 +24,7 @@ const sources = (items) =>
   `<div class="sources"><h2>Official help for this route</h2><ul>${items.map(([url, label]) => `<li><a href="${url}" target="_blank" rel="noreferrer">${label} ↗</a></li>`).join("")}</ul></div>`;
 const poemCard = `<div class="first-project"><div><p class="eyebrow">YOUR FIRST PROJECT / AN ANIMATED POEM</p><h2>A little world begins.</h2><p>Four original lines. Eight seconds. Large blue text on a cream background. Each line gets two seconds to fade in, be read, and fade out.</p></div><ol class="poem-lines">${firstPoemLines.map((line, i) => `<li><span>${i * 2}–${(i + 1) * 2} seconds</span>${line}</li>`).join("")}</ol></div>`;
 const timeline = `<figure class="first-timeline"><figcaption>At 30 frames per second, each two-second line uses 60 frames.</figcaption><div>${firstPoemLines.map((line, i) => `<span><strong>${i * 2}–${(i + 1) * 2} s</strong>${line}</span>`).join("")}</div><p>4 lines × 60 frames = 240 frames = 8 seconds.</p></figure>`;
-export const pluginFirstPrompt = `@Remotion I’m a Level 2A student using Remotion for the first time. Help me create an animated poem in the new empty first-poem-plugin project folder I selected. Check Node.js and Git, explain any needed setup, and prepare the project dependencies before writing the animation.
+export const pluginFirstPrompt = `@Remotion I’m using Remotion for the first time and I’m new to making videos with code. Help me create an animated poem in the new empty first-poem-plugin project folder I selected. Check Node.js and Git, explain any needed setup, and prepare the project dependencies before writing the animation.
 
 Make a composition named FirstPoem: 1280 by 720, 30 frames per second, eight seconds. Use these exact original lines:
 ${poemText}
@@ -32,7 +32,7 @@ ${poemText}
 Show one line at a time, two seconds per line, with large blue text on a cream background. Use useCurrentFrame and interpolate so the first 10 frames of each line fade in and the last 10 fade out. Keep it silent and use a normal local font.
 
 Open a working Remotion Studio preview. Tell me where the project was saved and which source file controls the poem. Stop so I can inspect it before adding features or rendering an MP4.`;
-export const withoutPluginPrompt = `I’m a Level 2A student on Windows using PowerShell and ChatGPT without the Remotion plugin. I have created a blank Remotion project named first-poem with create-video, run npm.cmd install, and opened Remotion Studio. Its src/index.ts imports RemotionRoot from src/Root.tsx. Help me make this first animation; please write the code for me.
+export const withoutPluginPrompt = `I’m new to Remotion and to making videos with code. I’m using Windows PowerShell and ChatGPT without the Remotion plugin. I have created a blank Remotion project named first-poem with create-video, run npm.cmd install, and opened Remotion Studio. Its src/index.ts imports RemotionRoot from src/Root.tsx. Help me make this first animation; please write the code for me.
 
 Create src/FirstPoem.tsx and update src/Root.tsx to register a composition named FirstPoem: 1280 by 720, 30 frames per second, durationInFrames 240. Use these exact original lines:
 ${poemText}

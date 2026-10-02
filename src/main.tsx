@@ -70,7 +70,7 @@ planner?.addEventListener("input", () => {
   const values = new FormData(planner);
   const output = document.querySelector("#planner-prompt code");
   if (output)
-    output.textContent = `@Remotion I’m a Level 2A student. I want to make ${values.get("idea") || "[my idea]"} for ${values.get("audience") || "[my audience]"}. I have ${values.get("assets") || "[my available assets]"}. Help me choose one small first version. Explain what Remotion would do and what inputs we need. Start with a short plan, then build only the first working preview. After I inspect it, we can decide what to add.`;
+    output.textContent = `@Remotion I’m new to Remotion and would like beginner-friendly guidance. I want to make ${values.get("idea") || "[my idea]"} for ${values.get("audience") || "[my audience]"}. I have ${values.get("assets") || "[my available assets]"}. Help me choose one small first version. Explain what Remotion would do and what inputs we need. Start with a short plan, then build only the first working preview. After I inspect it, we can decide what to add.`;
 });
 
 if (window.matchMedia("(max-width:800px)").matches)
