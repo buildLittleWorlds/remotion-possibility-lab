@@ -1,0 +1,46 @@
+{
+  "name": "remotion-possibility-lab",
+  "version": "1.0.0",
+  "description": "A 17-page student guide with six interactive Remotion projects",
+  "repository": {},
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "@remotion/cli": "4.0.532",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "remotion": "4.0.532",
+    "@remotion/player": "4.0.532",
+    "@remotion/media": "4.0.532",
+    "@remotion/media-utils": "4.0.532",
+    "@remotion/captions": "4.0.532",
+    "@remotion/three": "4.0.532",
+    "@remotion/transitions": "4.0.532",
+    "three": "0.183.2",
+    "@react-three/fiber": "9.5.0"
+  },
+  "devDependencies": {
+    "@remotion/eslint-config-flat": "4.0.532",
+    "@types/react": "19.2.7",
+    "@types/web": "0.0.166",
+    "eslint": "9.39.5",
+    "prettier": "3.8.1",
+    "typescript": "5.9.3",
+    "@types/three": "0.183.1",
+    "@types/react-dom": "19.2.3",
+    "@types/node": "22.19.15",
+    "vite": "8.3.2",
+    "tsx": "4.23.15"
+  },
+  "scripts": {
+    "dev": "vite --host 127.0.0.1 --port 4351",
+    "studio": "remotion studio --no-open --port 4350",
+    "generate": "node scripts/generate.mjs",
+    "build": "npm run generate && tsc --noEmit && vite build",
+    "test": "node --import tsx --test tests/*.test.ts",
+    "check": "tsc --noEmit",
+    "preview": "vite preview --host 127.0.0.1 --port 4351",
+    "pretest": "npm run generate"
+  },
+  "type": "module"
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "text": "Signal received.",
+    "startMs": 0,
+    "endMs": 1016,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "A tiny sound can become a visible story.",
+    "startMs": 1016,
+    "endMs": 3465,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "Keep the words readable, and let the waveform follow the voice.",
+    "startMs": 3465,
+    "endMs": 6875,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

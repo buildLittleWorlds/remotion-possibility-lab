@@ -1,0 +1,87 @@
+[
+  {
+    "navCollapsed": true,
+    "overflow": false,
+    "url": "http://127.0.0.1:4351/index.html"
+  },
+  {
+    "navCollapsed": true,
+    "overflow": false,
+    "url": "http://127.0.0.1:4351/02-story-explore.html"
+  },
+  {
+    "navCollapsed": true,
+    "overflow": false,
+    "url": "http://127.0.0.1:4351/03-story-build.html"
+  },
+  {
+    "navCollapsed": true,
+    "overflow": false,
+    "url": "http://127.0.0.1:4351/04-data-explore.html"
+  },
+  {
+    "navCollapsed": true,
+    "overflow": false,
+    "url": "http://127.0.0.1:4351/05-data-build.html"
+  },
+  {
+    "navCollapsed": true,
+    "overflow": false,
+    "url": "http://127.0.0.1:4351/06-audio-explore.html"
+  },
+  {
+    "navCollapsed": true,
+    "overflow": false,
+    "url": "http://127.0.0.1:4351/07-audio-build.html"
+  },
+  {
+    "navCollapsed": true,
+    "overflow": false,
+    "url": "http://127.0.0.1:4351/08-audio-test.html"
+  },
+  {
+    "navCollapsed": true,
+    "overflow": false,
+    "url": "http://127.0.0.1:4351/09-montage-explore.html"
+  },
+  {
+    "navCollapsed": true,
+    "overflow": false,
+    "url": "http://127.0.0.1:4351/10-montage-build.html"
+  },
+  {
+    "navCollapsed": true,
+    "overflow": false,
+    "url": "http://127.0.0.1:4351/11-montage-test.html"
+  },
+  {
+    "navCollapsed": true,
+    "overflow": false,
+    "url": "http://127.0.0.1:4351/12-3d-explore.html"
+  },
+  {
+    "navCollapsed": true,
+    "overflow": false,
+    "url": "http://127.0.0.1:4351/13-3d-build.html"
+  },
+  {
+    "navCollapsed": true,
+    "overflow": false,
+    "url": "http://127.0.0.1:4351/14-3d-test.html"
+  },
+  {
+    "navCollapsed": true,
+    "overflow": false,
+    "url": "http://127.0.0.1:4351/15-app-explore.html"
+  },
+  {
+    "navCollapsed": true,
+    "overflow": false,
+    "url": "http://127.0.0.1:4351/16-app-build.html"
+  },
+  {
+    "navCollapsed": true,
+    "overflow": false,
+    "url": "http://127.0.0.1:4351/17-your-project.html"
+  }
+]

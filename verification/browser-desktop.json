@@ -1,0 +1,121 @@
+[
+  {
+    "copyButtons": 1,
+    "navLinks": 17,
+    "overflow": false,
+    "title": "Make timevisible.",
+    "url": "http://127.0.0.1:4351/index.html"
+  },
+  {
+    "copyButtons": 0,
+    "navLinks": 17,
+    "overflow": false,
+    "title": "Tell a story with moving words",
+    "url": "http://127.0.0.1:4351/02-story-explore.html"
+  },
+  {
+    "copyButtons": 6,
+    "navLinks": 17,
+    "overflow": false,
+    "title": "Build your text trailer",
+    "url": "http://127.0.0.1:4351/03-story-build.html"
+  },
+  {
+    "copyButtons": 0,
+    "navLinks": 17,
+    "overflow": false,
+    "title": "Let a dataset become a video",
+    "url": "http://127.0.0.1:4351/04-data-explore.html"
+  },
+  {
+    "copyButtons": 6,
+    "navLinks": 17,
+    "overflow": false,
+    "title": "Build a data story",
+    "url": "http://127.0.0.1:4351/05-data-build.html"
+  },
+  {
+    "copyButtons": 0,
+    "navLinks": 17,
+    "overflow": false,
+    "title": "Make a sound visible",
+    "url": "http://127.0.0.1:4351/06-audio-explore.html"
+  },
+  {
+    "copyButtons": 3,
+    "navLinks": 17,
+    "overflow": false,
+    "title": "Build a captioned audio clip",
+    "url": "http://127.0.0.1:4351/07-audio-build.html"
+  },
+  {
+    "copyButtons": 3,
+    "navLinks": 17,
+    "overflow": false,
+    "title": "Change the recording carefully",
+    "url": "http://127.0.0.1:4351/08-audio-test.html"
+  },
+  {
+    "copyButtons": 0,
+    "navLinks": 17,
+    "overflow": false,
+    "title": "Make a new edit from existing footage",
+    "url": "http://127.0.0.1:4351/09-montage-explore.html"
+  },
+  {
+    "copyButtons": 3,
+    "navLinks": 17,
+    "overflow": false,
+    "title": "Build your three-clip montage",
+    "url": "http://127.0.0.1:4351/10-montage-build.html"
+  },
+  {
+    "copyButtons": 3,
+    "navLinks": 17,
+    "overflow": false,
+    "title": "Treat an edit as a sequence of choices",
+    "url": "http://127.0.0.1:4351/11-montage-test.html"
+  },
+  {
+    "copyButtons": 0,
+    "navLinks": 17,
+    "overflow": false,
+    "title": "Build a world and move through it",
+    "url": "http://127.0.0.1:4351/12-3d-explore.html"
+  },
+  {
+    "copyButtons": 3,
+    "navLinks": 17,
+    "overflow": false,
+    "title": "Build your miniature station",
+    "url": "http://127.0.0.1:4351/13-3d-build.html"
+  },
+  {
+    "copyButtons": 3,
+    "navLinks": 17,
+    "overflow": false,
+    "title": "Keep a 3D scene inspectable",
+    "url": "http://127.0.0.1:4351/14-3d-test.html"
+  },
+  {
+    "copyButtons": 0,
+    "navLinks": 17,
+    "overflow": false,
+    "title": "Build an app that makes videos",
+    "url": "http://127.0.0.1:4351/15-app-explore.html"
+  },
+  {
+    "copyButtons": 6,
+    "navLinks": 17,
+    "overflow": false,
+    "title": "Build your video-making app",
+    "url": "http://127.0.0.1:4351/16-app-build.html"
+  },
+  {
+    "copyButtons": 4,
+    "navLinks": 17,
+    "overflow": false,
+    "title": "Choose your own first version",
+    "url": "http://127.0.0.1:4351/17-your-project.html"
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "note": "Fictional example reading minutes; not a class survey",
+  "unit": "minutes",
+  "scale": [
+    0,
+    30
+  ],
+  "A": {
+    "Comics": 12,
+    "Novels": 20,
+    "Poetry": 8
+  },
+  "B": {
+    "Comics": 18,
+    "Novels": 10,
+    "Poetry": 22
+  }
+}

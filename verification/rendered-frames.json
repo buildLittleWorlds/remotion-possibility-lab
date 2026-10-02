@@ -1,0 +1,92 @@
+[
+  {
+    "id": "MessageFromMars",
+    "frame": 0,
+    "output": "verification/frames/MessageFromMars-0.png"
+  },
+  {
+    "id": "MessageFromMars",
+    "frame": 180,
+    "output": "verification/frames/MessageFromMars-180.png"
+  },
+  {
+    "id": "MessageFromMars",
+    "frame": 359,
+    "output": "verification/frames/MessageFromMars-359.png"
+  },
+  {
+    "id": "ReadingData",
+    "frame": 0,
+    "output": "verification/frames/ReadingData-0.png"
+  },
+  {
+    "id": "ReadingData",
+    "frame": 180,
+    "output": "verification/frames/ReadingData-180.png"
+  },
+  {
+    "id": "ReadingData",
+    "frame": 359,
+    "output": "verification/frames/ReadingData-359.png"
+  },
+  {
+    "id": "SignalAudiogram",
+    "frame": 0,
+    "output": "verification/frames/SignalAudiogram-0.png"
+  },
+  {
+    "id": "SignalAudiogram",
+    "frame": 109,
+    "output": "verification/frames/SignalAudiogram-109.png"
+  },
+  {
+    "id": "SignalAudiogram",
+    "frame": 218,
+    "output": "verification/frames/SignalAudiogram-218.png"
+  },
+  {
+    "id": "FootageMontage",
+    "frame": 0,
+    "output": "verification/frames/FootageMontage-0.png"
+  },
+  {
+    "id": "FootageMontage",
+    "frame": 180,
+    "output": "verification/frames/FootageMontage-180.png"
+  },
+  {
+    "id": "FootageMontage",
+    "frame": 359,
+    "output": "verification/frames/FootageMontage-359.png"
+  },
+  {
+    "id": "ClubAnnouncement",
+    "frame": 0,
+    "output": "verification/frames/ClubAnnouncement-0.png"
+  },
+  {
+    "id": "ClubAnnouncement",
+    "frame": 180,
+    "output": "verification/frames/ClubAnnouncement-180.png"
+  },
+  {
+    "id": "ClubAnnouncement",
+    "frame": 359,
+    "output": "verification/frames/ClubAnnouncement-359.png"
+  },
+  {
+    "id": "MiniatureStation",
+    "frame": 0,
+    "output": "verification/frames/MiniatureStation-0.png"
+  },
+  {
+    "id": "MiniatureStation",
+    "frame": 180,
+    "output": "verification/frames/MiniatureStation-180.png"
+  },
+  {
+    "id": "MiniatureStation",
+    "frame": 359,
+    "output": "verification/frames/MiniatureStation-359.png"
+  }
+]

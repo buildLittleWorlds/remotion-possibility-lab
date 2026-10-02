@@ -1,0 +1,74 @@
+[
+  {
+    "name": "MessageFromMars",
+    "composition": {
+      "compositionName": "MessageFromMars",
+      "durationInFrames": 360,
+      "height": 720,
+      "width": 1280,
+      "fps": 30,
+      "currentFrame": 0
+    },
+    "errorOverlay": null
+  },
+  {
+    "name": "ReadingData",
+    "composition": {
+      "compositionName": "ReadingData",
+      "durationInFrames": 360,
+      "height": 720,
+      "width": 1280,
+      "fps": 30,
+      "currentFrame": 0
+    },
+    "errorOverlay": null
+  },
+  {
+    "name": "SignalAudiogram",
+    "composition": {
+      "compositionName": "SignalAudiogram",
+      "durationInFrames": 219,
+      "height": 720,
+      "width": 1280,
+      "fps": 30,
+      "currentFrame": 0
+    },
+    "errorOverlay": null
+  },
+  {
+    "name": "FootageMontage",
+    "composition": {
+      "compositionName": "FootageMontage",
+      "durationInFrames": 360,
+      "height": 720,
+      "width": 1280,
+      "fps": 30,
+      "currentFrame": 0
+    },
+    "errorOverlay": null
+  },
+  {
+    "name": "MiniatureStation",
+    "composition": {
+      "compositionName": "MiniatureStation",
+      "durationInFrames": 360,
+      "height": 720,
+      "width": 1280,
+      "fps": 30,
+      "currentFrame": 0
+    },
+    "errorOverlay": null
+  },
+  {
+    "name": "ClubAnnouncement",
+    "composition": {
+      "compositionName": "ClubAnnouncement",
+      "durationInFrames": 360,
+      "height": 720,
+      "width": 1280,
+      "fps": 30,
+      "currentFrame": 0
+    },
+    "errorOverlay": null
+  }
+]
