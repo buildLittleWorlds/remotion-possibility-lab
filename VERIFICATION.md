@@ -20,4 +20,6 @@ A fresh student ChatGPT/Remotion conversation has not been run through all eight
 
 ## Publication
 
-Public site, GitHub deployment, and Classroom readback will be recorded after release. No student submissions are part of this repository.
+GitHub Pages deployment succeeded: [workflow run 37013587482](https://github.com/buildLittleWorlds/remotion-possibility-lab/actions/runs/37013587482). All 34 hosted build files matched the checked local build by SHA-256, including all 17 pages and every bundled media file. All six public demos were opened and inspected at their midpoint, with no browser error logs.
+
+The new “Session 4 — Six ways to create with Remotion” Material was posted under Level 2A Session 4 for all students. The permanent Material page was reopened and its title, exact description, and published guide attachment were read back. Classwork showed exactly one matching title under Session 4, alongside the existing Latin lesson and assignment. No student submissions are part of this repository.

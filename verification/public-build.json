@@ -1,0 +1,172 @@
+[
+  {
+    "path": "06-audio-explore.html",
+    "bytes": 5373,
+    "matchesLocalBuild": true
+  },
+  {
+    "path": "05-data-build.html",
+    "bytes": 7012,
+    "matchesLocalBuild": true
+  },
+  {
+    "path": "index.html",
+    "bytes": 17605,
+    "matchesLocalBuild": true
+  },
+  {
+    "path": "12-3d-explore.html",
+    "bytes": 5503,
+    "matchesLocalBuild": true
+  },
+  {
+    "path": "03-story-build.html",
+    "bytes": 7312,
+    "matchesLocalBuild": true
+  },
+  {
+    "path": "10-montage-build.html",
+    "bytes": 6122,
+    "matchesLocalBuild": true
+  },
+  {
+    "path": "08-audio-test.html",
+    "bytes": 6582,
+    "matchesLocalBuild": true
+  },
+  {
+    "path": "11-montage-test.html",
+    "bytes": 5962,
+    "matchesLocalBuild": true
+  },
+  {
+    "path": "04-data-explore.html",
+    "bytes": 5916,
+    "matchesLocalBuild": true
+  },
+  {
+    "path": "17-your-project.html",
+    "bytes": 7350,
+    "matchesLocalBuild": true
+  },
+  {
+    "path": "14-3d-test.html",
+    "bytes": 6025,
+    "matchesLocalBuild": true
+  },
+  {
+    "path": "15-app-explore.html",
+    "bytes": 5413,
+    "matchesLocalBuild": true
+  },
+  {
+    "path": "09-montage-explore.html",
+    "bytes": 5673,
+    "matchesLocalBuild": true
+  },
+  {
+    "path": "07-audio-build.html",
+    "bytes": 6148,
+    "matchesLocalBuild": true
+  },
+  {
+    "path": "02-story-explore.html",
+    "bytes": 5273,
+    "matchesLocalBuild": true
+  },
+  {
+    "path": "16-app-build.html",
+    "bytes": 7022,
+    "matchesLocalBuild": true
+  },
+  {
+    "path": "favicon.svg",
+    "bytes": 216,
+    "matchesLocalBuild": true
+  },
+  {
+    "path": "13-3d-build.html",
+    "bytes": 5844,
+    "matchesLocalBuild": true
+  },
+  {
+    "path": "assets/Station-OWSIQNcd.js",
+    "bytes": 874229,
+    "matchesLocalBuild": true
+  },
+  {
+    "path": "assets/client-Bsgy8pCE.js",
+    "bytes": 175391,
+    "matchesLocalBuild": true
+  },
+  {
+    "path": "assets/scheduler-DU1zJn8a.js",
+    "bytes": 3554,
+    "matchesLocalBuild": true
+  },
+  {
+    "path": "assets/react-dom-RmVByNTU.js",
+    "bytes": 3568,
+    "matchesLocalBuild": true
+  },
+  {
+    "path": "assets/main-DrRmvR58.js",
+    "bytes": 4910,
+    "matchesLocalBuild": true
+  },
+  {
+    "path": "assets/main-FCGXBoX_.css",
+    "bytes": 13485,
+    "matchesLocalBuild": true
+  },
+  {
+    "path": "assets/Demo-BSehbaY5.js",
+    "bytes": 835426,
+    "matchesLocalBuild": true
+  },
+  {
+    "path": "assets/react-DACbKMuS.js",
+    "bytes": 7520,
+    "matchesLocalBuild": true
+  },
+  {
+    "path": "media/signal.wav",
+    "bytes": 349268,
+    "matchesLocalBuild": true
+  },
+  {
+    "path": "media/captions.json",
+    "bytes": 542,
+    "matchesLocalBuild": true
+  },
+  {
+    "path": "media/reading-data.json",
+    "bytes": 256,
+    "matchesLocalBuild": true
+  },
+  {
+    "path": "media/bunny-a.mp4",
+    "bytes": 551798,
+    "matchesLocalBuild": true
+  },
+  {
+    "path": "media/bunny-b.mp4",
+    "bytes": 342230,
+    "matchesLocalBuild": true
+  },
+  {
+    "path": "media/bunny-c.mp4",
+    "bytes": 247064,
+    "matchesLocalBuild": true
+  },
+  {
+    "path": "media/audio-info.json",
+    "bytes": 239,
+    "matchesLocalBuild": true
+  },
+  {
+    "path": "media/station-poster.png",
+    "bytes": 114198,
+    "matchesLocalBuild": true
+  }
+]
