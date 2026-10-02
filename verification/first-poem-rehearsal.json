@@ -1,0 +1,19 @@
+{
+  "platform": "macOS",
+  "starter": "create-video@4.0.532 --yes --blank --no-tailwind first-poem",
+  "composition": {
+    "id": "FirstPoem",
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "durationInFrames": 240
+  },
+  "checkedFrames": [
+    30,
+    90,
+    150,
+    210
+  ],
+  "windowsInstallationTested": false,
+  "freshChatGPTConversationTested": false
+}

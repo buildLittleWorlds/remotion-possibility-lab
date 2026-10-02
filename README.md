@@ -1,10 +1,17 @@
 # Remotion Possibility Lab
 
-A 17-page guide for Dr. Plate’s Youth Horizons Level 2A Session 4. Students can browse 30 possibilities, try six original interactive Remotion demos, and follow small ChatGPT/Remotion build prompts.
+A guide with 17 lesson pages and two getting-started walkthroughs for Dr. Plate’s Youth Horizons Level 2A Session 4. Students can browse 30 possibilities, try six original interactive Remotion demos, and follow small ChatGPT/Remotion build prompts.
 
 Public guide: https://buildlittleworlds.github.io/remotion-possibility-lab/
 
 The six projects cover text storytelling, data, captioned audio, footage editing, 3D, and a video-template app. The original Session 4 [Caseflow](https://buildlittleworlds.github.io/caseflow/) remains a separate project.
+
+## Beginner entry points
+
+- [Remotion and ChatGPT with the plugin](https://buildlittleworlds.github.io/remotion-possibility-lab/getting-started.html)
+- [Windows PowerShell without the plugin](https://buildlittleworlds.github.io/remotion-possibility-lab/windows-without-plugin.html)
+
+Both routes make the same eight-second original poem. They are auxiliary guides; the original lesson filenames and numbering remain intact. The Windows commands explain Node.js, npm, npx, Git, setup, source-file handoff, Studio, and optional export. PowerShell `.cmd` launchers keep this path independent of script-policy changes.
 
 ## Run and edit
 
@@ -23,7 +30,7 @@ npm run studio -- --webpack-poll 1000
 
 Studio uses http://localhost:4350/. On a macOS sandbox that prevents watchers or Chromium startup, run this in a normal terminal. The guide uses Vite; Studio uses webpack with polling.
 
-Edit `content/lessons.mjs` for lesson text and prompts, `src/compositions/` for demos, and `src/site.css` for the design. `npm run generate` writes all 17 HTML pages. The composition source is shared between Player and Studio. Media is served from the project-relative base path, including on GitHub Pages.
+Edit `content/lessons.mjs` for lesson text and prompts, `content/getting-started.mjs` for the plugin and Windows setup routes, `src/compositions/` for demos, and `src/site.css` for the design. `npm run generate` writes all 19 HTML pages. The composition source is shared between Player and Studio. Media is served from the project-relative base path, including on GitHub Pages.
 
 ```sh
 npm test

@@ -16,15 +16,27 @@ if (node)
       node.textContent =
         "The demo could not load. Reload to try again; the explanation and prompts remain available.";
     });
+const selectSnippet = (button: HTMLButtonElement) => {
+  const code = button.closest(".prompt, .terminal")?.querySelector("code");
+  if (!code) return;
+  const range = document.createRange();
+  range.selectNodeContents(code);
+  const selection = window.getSelection();
+  selection?.removeAllRanges();
+  selection?.addRange(range);
+};
 document.querySelectorAll<HTMLButtonElement>("[data-copy]").forEach((button) =>
   button.addEventListener("click", async () => {
     const text =
-      button.closest(".prompt")?.querySelector("code")?.textContent || "";
+      button.closest(".prompt, .terminal")?.querySelector("code")
+        ?.textContent || "";
     try {
       await navigator.clipboard.writeText(text);
-      button.textContent = "Copied";
+      selectSnippet(button);
+      button.textContent = "Selected — Ctrl+C if needed";
     } catch {
-      button.textContent = "Select the text below to copy";
+      selectSnippet(button);
+      button.textContent = "Selected — Ctrl+C / ⌘C";
     }
   }),
 );
@@ -45,6 +57,14 @@ document
         );
     }),
   );
+document
+  .querySelectorAll<HTMLButtonElement>("[data-select]")
+  .forEach((button) => {
+    button.addEventListener("click", () => {
+      selectSnippet(button);
+      button.textContent = "Selected — Ctrl+C / ⌘C";
+    });
+  });
 const planner = document.querySelector<HTMLFormElement>("#planner");
 planner?.addEventListener("input", () => {
   const values = new FormData(planner);

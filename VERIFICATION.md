@@ -23,3 +23,15 @@ A fresh student ChatGPT/Remotion conversation has not been run through all eight
 GitHub Pages deployment succeeded: [workflow run 37013587482](https://github.com/buildLittleWorlds/remotion-possibility-lab/actions/runs/37013587482). All 34 hosted build files matched the checked local build by SHA-256, including all 17 pages and every bundled media file. All six public demos were opened and inspected at their midpoint, with no browser error logs.
 
 The new “Session 4 — Six ways to create with Remotion” Material was posted under Level 2A Session 4 for all students. The permanent Material page was reopened and its title, exact description, and published guide attachment were read back. Classwork showed exactly one matching title under Session 4, alongside the existing Latin lesson and assignment. No student submissions are part of this repository.
+
+
+## Getting-started addition — October 2, 2026
+
+- Added two linked beginner walkthroughs, bringing the site to 19 HTML pages while retaining the 17 lesson routes and numbering.
+- Both routes specify the same FirstPoem composition: four original lines, 240 frames at 30 fps, 1280×720, with each line assigned 60 frames.
+- All 13 distinct PowerShell command blocks parsed without errors in PowerShell 7.6.5 on macOS. This checks syntax; it is not a Windows installation test.
+- The exact create-video starter was run in a temporary local folder. Its generated project, two-file poem implementation, TypeScript check, and Remotion bundle were rehearsed locally. Stills at frames 30, 90, 150, and 210 were rendered, and the first and final lines were visually inspected.
+- The current starter’s Git requirement was confirmed in its implementation. Node/Git installs, fresh-terminal checks, and source-copy steps are included.
+- Select-text followed by the operating-system copy shortcut was verified to preserve the complete command block. Programmatic clipboard writes in the embedded browser did not update the OS clipboard during this pass; the explicit select-text control supplies a working fallback.
+- The homepage and both setup guides were checked at desktop and 390px phone widths with no horizontal overflow. Both command and prompt selection followed by the native copy shortcut matched the full source text.
+- Windows WinGet installation and a fresh student ChatGPT conversation remain untested.

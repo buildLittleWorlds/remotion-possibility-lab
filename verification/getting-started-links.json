@@ -1,0 +1,54 @@
+[
+  {
+    "url": "https://buildlittleworlds.github.io/caseflow/",
+    "status": 200
+  },
+  {
+    "url": "https://chatgpt.com/plugins/plugins~Plugin_efd07789186881918253a50acfc32762?open_in_codex=",
+    "status": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://git-scm.com/install/windows",
+    "status": 200
+  },
+  {
+    "url": "https://github.com/buildLittleWorlds/remotion-possibility-lab",
+    "status": 200
+  },
+  {
+    "url": "https://github.com/remotion-dev/remotion/blob/main/packages/create-video/src/init.ts",
+    "status": 200
+  },
+  {
+    "url": "https://learn.chatgpt.com/docs/plugins",
+    "status": 200
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/windows/package-manager/winget/install",
+    "status": 200
+  },
+  {
+    "url": "https://nodejs.org/en/download",
+    "status": 200
+  },
+  {
+    "url": "https://nodejs.org/en/learn/getting-started/an-introduction-to-the-npm-package-manager",
+    "status": 200
+  },
+  {
+    "url": "https://nodejs.org/en/learn/getting-started/introduction-to-nodejs",
+    "status": 200
+  },
+  {
+    "url": "https://www.remotion.dev/docs",
+    "status": 200
+  },
+  {
+    "url": "https://www.remotion.dev/docs/ai/codex-plugin",
+    "status": 200
+  },
+  {
+    "url": "https://www.remotion.dev/docs/the-fundamentals",
+    "status": 200
+  }
+]

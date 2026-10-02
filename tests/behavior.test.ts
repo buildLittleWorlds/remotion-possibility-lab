@@ -72,9 +72,9 @@ test("Fixed camera remains fixed, orbit changes, and seeking recovers its same p
   assert.deepEqual(stationCamera(180, "orbit"), mid);
   assert.ok(stationCamera(180, "high")[1] > mid[1]);
 });
-test("17 generated pages expose navigation, working local assets, and no private uploads", () => {
+test("19 generated pages expose navigation, working local assets, and no private uploads", () => {
   const pages = readdirSync(".").filter((f) => f.endsWith(".html"));
-  assert.equal(pages.length, 17);
+  assert.equal(pages.length, 19);
   for (const file of pages) {
     const html = readFileSync(file, "utf8");
     assert.match(html, /lang="en"/);

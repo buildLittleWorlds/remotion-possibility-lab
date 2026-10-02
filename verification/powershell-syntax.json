@@ -1,0 +1,54 @@
+[
+  {
+    "Block": "check",
+    "Errors": []
+  },
+  {
+    "Block": "winget",
+    "Errors": []
+  },
+  {
+    "Block": "installNode",
+    "Errors": []
+  },
+  {
+    "Block": "installGit",
+    "Errors": []
+  },
+  {
+    "Block": "folder",
+    "Errors": []
+  },
+  {
+    "Block": "create",
+    "Errors": []
+  },
+  {
+    "Block": "dependencies",
+    "Errors": []
+  },
+  {
+    "Block": "list",
+    "Errors": []
+  },
+  {
+    "Block": "preview",
+    "Errors": []
+  },
+  {
+    "Block": "reopen",
+    "Errors": []
+  },
+  {
+    "Block": "files",
+    "Errors": []
+  },
+  {
+    "Block": "checkCode",
+    "Errors": []
+  },
+  {
+    "Block": "export",
+    "Errors": []
+  }
+]
